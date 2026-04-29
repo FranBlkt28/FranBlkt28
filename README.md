@@ -1,12 +1,3 @@
-<!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
@@ -28,7 +19,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,html,css,php,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
