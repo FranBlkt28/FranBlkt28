@@ -19,7 +19,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,html,css,php,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,mysql,html,css,php,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
