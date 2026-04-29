@@ -21,13 +21,6 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,mysql,html,css,php,notion)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
-
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
-
 ### Publications
 <div> 
   <a href="https://medium.com/@daria-stanilevici">
