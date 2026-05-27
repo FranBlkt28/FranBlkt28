@@ -1,7 +1,7 @@
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,mysql,html,css,php,notion)](https://skillicons.dev)
-
+<!--
 ### Publications
 <div> 
   <a href="https://medium.com/@daria-stanilevici">
@@ -60,4 +60,5 @@ Check out my latest post 👇
 
 <!--
      Thanks for being my guest <3
+-->
 -->
