@@ -35,10 +35,3 @@ Check out my latest post 👇
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
-
-<!--
-     Oh, hello there, recruiters!
--->
-     Thanks for being my guest <3
--->
--->
